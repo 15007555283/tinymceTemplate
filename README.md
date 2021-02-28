@@ -1,4 +1,3 @@
 # tinymceTemplate
 tinymce自定义插件模板
 
-拉下代码后先npm install，然后将plugins目录下的文件复制进nude_modules里的tinymce中的plugins中，然后就能愉快地使用了 
