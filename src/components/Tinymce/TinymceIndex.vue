@@ -10,7 +10,7 @@ import Editor from '@tinymce/tinymce-vue';
 import 'tinymce/themes/silver/theme';
 
 import '../../assets/js/tinymce_zh_CN';
-import 'tinymce/plugins/uploadImg';
+import '../../assets/plugins/uploadImg';
 
 export default {
   components: {
